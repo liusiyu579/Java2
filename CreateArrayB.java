@@ -19,6 +19,7 @@ public class CreateArrayB {
             sum *= A[j];
             j++;
         }
+		
         return sum;
     }
     // 构建数组B
