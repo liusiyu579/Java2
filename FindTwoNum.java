@@ -1,5 +1,3 @@
-package word6;
-
 import java.util.Scanner;
 
 
